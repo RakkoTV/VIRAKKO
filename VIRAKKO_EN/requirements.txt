@@ -1,0 +1,23 @@
+# VIRAKKO - Dependencias del Proyecto
+
+# Web Scraping y Automatización
+selenium>=4.15.0
+playwright>=1.40.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Manejo de JSON
+json5>=0.9.14
+
+# Manejo de fechas
+python-dateutil>=2.8.2
+
+# Web Framework (opcional, para web local mejorada)
+flask>=3.0.0
+
+# Utilidades
+python-dotenv>=1.0.0
+
+# Driver de Chrome para Selenium (instalado separado)
+# chromedriver-autoinstaller>=0.6.4
