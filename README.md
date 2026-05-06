@@ -174,7 +174,7 @@ Si te gusta VIRAKKO y quieres apoyar su desarrollo, considera hacer una donació
 
 ## 📞 Contacto
 
-- **Email**: ramiro.silva.1993@gmail.com
+- **Email**: contacto@rakkotech.uy
 - **GitHub**: [RakkoTV](https://github.com/RakkoTV)
 
 ## 🙏 Agradecimientos
