@@ -1,0 +1,16 @@
+{
+  "elevenlabs": {
+    "api_key": "TU_API_KEY_DE_ELEVENLABS_AQUI"
+  },
+  "gemini": {
+    "api_key": "TU_API_KEY_DE_GEMINI_AQUI"
+  },
+  "github": {
+    "username": "RakkoTV",
+    "token": "TU_TOKEN_DE_GITHUB_AQUI"
+  },
+  "paths": {
+    "projects": "projects/",
+    "downloads": "C:/Users/ramir/Downloads/"
+  }
+}

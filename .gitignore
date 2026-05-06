@@ -1,0 +1,47 @@
+# Credenciales y archivos sensibles
+credentials.json
+.env
+*.key
+token.txt
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Proyectos generados
+projects/
+
+# Descargas temporales
+downloads/
+Downloads/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# API Keys específicas (do not commit)
+sk_*
+ghp_*
