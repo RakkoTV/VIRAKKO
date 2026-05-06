@@ -83,16 +83,16 @@
 - [ ] Crear README_zh.md (Chino)
 - [ ] Añadir sección de redes sociales:
   - 🐱 GitHub: [RakkoTV](https://github.com/RakkoTV)
-  - 💼 LinkedIn: [Ramiro Silva](https://www.linkedin.com/in/ramiro-silva/) (449 contactos)
-  - 📸 Instagram: [@Rakko.Tech](https://www.instagram.com/Rakko.Tech) (6666 seguidores)
-  - 👾 Twitch: [RakkoTech](https://www.twitch.com/RakkoTech) (8800 seguidores)
-  - ✖️ X: [@RakkoTech](https://www.x.com/RakkoTech) (245 seguidores)
-  - 🧵 Threads: [@rakko.tech](https://www.threads.net/@rakko.tech) (125 seguidores)
-  - 🦋 BlueSky: [RakkoTech](https://bsky.app/profile/rakkotech.bsky.social) (2 seguidores)
-  - 📘 Facebook: [RakkoTech](https://www.facebook.com/RakkoTech) (2100 seguidores)
-  - 📺 YouTube: [RakkoTech](https://www.youtube.com/@RakkoTech) (131 suscriptores)
-  - 🎵 TikTok: [@RakkoTech](https://www.tiktok.com/RakkoTech) (35 seguidores)
-  - 🟩 Kick: [RakkoTech](https://kick.com/rakkotech/about) (0 seguidores)
+  - 💼 LinkedIn: [Ramiro Silva](https://www.linkedin.com/in/ramiro-silva/)
+  - 📸 Instagram: [@Rakko.Tech](https://www.instagram.com/Rakko.Tech)
+  - 👾 Twitch: [RakkoTech](https://www.twitch.tv/RakkoTech)
+  - ✖️ X: [@RakkoTech](https://www.x.com/RakkoTech)
+  - 🧵 Threads: [@rakko.tech](https://www.threads.net/@rakko.tech)
+  - 🦋 BlueSky: [RakkoTech](https://bsky.app/profile/rakkotech.bsky.social)
+  - 📘 Facebook: [RakkoTech](https://www.facebook.com/RakkoTech)
+  - 📺 YouTube: [RakkoTech](https://www.youtube.com/@RakkoTech)
+  - 🎵 TikTok: [@RakkoTech](https://www.tiktok.com/RakkoTech)
+  - 🟩 Kick: [RakkoTech](https://kick.com/rakkotech/about)
 
 ### Fase 8: Subida a GitHub
 - [ ] Configurar Git con credenciales seguras

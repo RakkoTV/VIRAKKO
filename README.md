@@ -160,17 +160,17 @@ Si te gusta VIRAKKO y quieres apoyar su desarrollo, considera hacer una donació
 
 ## 🌐 Sígueme en Redes Sociales
 
-- 🐱 [GitHub](https://github.com/RakkoTV) (3 ⭐)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/) (449 contactos)
-- 📸 [Instagram](https://www.instagram.com/Rakko.Tech) (6666 seguidores)
-- 👾 [Twitch](https://www.twitch.com/RakkoTech) (8800 seguidores)
-- ✖️ [X (Twitter)](https://www.x.com/RakkoTech) (245 seguidores)
-- 🧵 [Threads](https://www.threads.net/@rakko.tech) (125 seguidores)
-- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social) (2 seguidores)
-- 📘 [Facebook](https://www.facebook.com/RakkoTech) (2100 seguidores)
-- 📺 [YouTube](https://www.youtube.com/@RakkoTech) (131 suscriptores)
-- 🎵 [TikTok](https://www.tiktok.com/RakkoTech) (35 seguidores)
-- 🟩 [Kick](https://kick.com/rakkotech/about) (0 seguidores)
+- 🐱 [GitHub](https://github.com/RakkoTV)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/)
+- 📸 [Instagram](https://www.instagram.com/Rakko.Tech)
+- 👾 [Twitch](https://www.twitch.com/RakkoTech)
+- ✖️ [X (Twitter)](https://www.x.com/RakkoTech)
+- 🧵 [Threads](https://www.threads.net/@rakko.tech)
+- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social)
+- 📘 [Facebook](https://www.facebook.com/RakkoTech)
+- 📺 [YouTube](https://www.youtube.com/@RakkoTech)
+- 🎵 [TikTok](https://www.tiktok.com/RakkoTech)
+- 🟩 [Kick](https://kick.com/rakkotech/about)
 
 ## 📞 Contacto
 

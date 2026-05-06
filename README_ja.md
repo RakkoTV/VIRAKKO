@@ -160,17 +160,17 @@ VIRAKKOが気に入り、開発をサポートしたい場合は、寄付をご�
 
 ## 🌐 ソーシャルメディアでフォロー
 
-- 🐱 [GitHub](https://github.com/RakkoTV) (3 ⭐)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/) (449 コンタクト)
-- 📸 [Instagram](https://www.instagram.com/Rakko.Tech) (6666 フォロワー)
-- 👾 [Twitch](https://www.twitch.com/RakkoTech) (8800 フォロワー)
-- ✖️ [X (Twitter)](https://www.x.com/RakkoTech) (245 フォロワー)
-- 🧵 [Threads](https://www.threads.net/@rakko.tech) (125 フォロワー)
-- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social) (2 フォロワー)
-- 📘 [Facebook](https://www.facebook.com/RakkoTech) (2100 フォロワー)
-- 📺 [YouTube](https://www.youtube.com/@RakkoTech) (131 購読者)
-- 🎵 [TikTok](https://www.tiktok.com/RakkoTech) (35 フォロワー)
-- 🟩 [Kick](https://kick.com/rakkotech/about) (0 フォロワー)
+- 🐱 [GitHub](https://github.com/RakkoTV)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/)
+- 📸 [Instagram](https://www.instagram.com/Rakko.Tech)
+- 👾 [Twitch](https://www.twitch.com/RakkoTech)
+- ✖️ [X (Twitter)](https://www.x.com/RakkoTech)
+- 🧵 [Threads](https://www.threads.net/@rakko.tech)
+- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social)
+- 📘 [Facebook](https://www.facebook.com/RakkoTech)
+- 📺 [YouTube](https://www.youtube.com/@RakkoTech)
+- 🎵 [TikTok](https://www.tiktok.com/RakkoTech)
+- 🟩 [Kick](https://kick.com/rakkotech/about)
 
 ## 📞 連絡先
 

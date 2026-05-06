@@ -424,77 +424,77 @@ class WebGenerator:
                     <span class="social-icon">🐱</span>
                     <div>
                         <strong>GitHub</strong><br>
-                        <small>RakkoTV (3 ⭐)</small>
+                        <small>RakkoTV</small>
                     </div>
                 </a>
                 <a href="https://www.linkedin.com/in/ramiro-silva/" class="social-link" target="_blank">
                     <span class="social-icon">💼</span>
                     <div>
                         <strong>LinkedIn</strong><br>
-                        <small>449 contactos</small>
+                        <small>Ramiro Silva</small>
                     </div>
                 </a>
                 <a href="https://www.instagram.com/Rakko.Tech" class="social-link" target="_blank">
                     <span class="social-icon">📸</span>
                     <div>
                         <strong>Instagram</strong><br>
-                        <small>@Rakko.Tech (6666 👥)</small>
+                        <small>@Rakko.Tech</small>
                     </div>
                 </a>
                 <a href="https://www.twitch.tv/RakkoTech" class="social-link" target="_blank">
                     <span class="social-icon">👾</span>
                     <div>
                         <strong>Twitch</strong><br>
-                        <small>RakkoTech (8800 👥)</small>
+                        <small>RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://www.x.com/RakkoTech" class="social-link" target="_blank">
                     <span class="social-icon">✖️</span>
                     <div>
                         <strong>X (Twitter)</strong><br>
-                        <small>@RakkoTech (245 👥)</small>
+                        <small>@RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://www.threads.net/@rakko.tech" class="social-link" target="_blank">
                     <span class="social-icon">🧵</span>
                     <div>
                         <strong>Threads</strong><br>
-                        <small>@rakko.tech (125 👥)</small>
+                        <small>@rakko.tech</small>
                     </div>
                 </a>
                 <a href="https://bsky.app/profile/rakkotech.bsky.social" class="social-link" target="_blank">
                     <span class="social-icon">🦋</span>
                     <div>
                         <strong>BlueSky</strong><br>
-                        <small>RakkoTech (2 👥)</small>
+                        <small>RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://www.facebook.com/RakkoTech" class="social-link" target="_blank">
                     <span class="social-icon">📘</span>
                     <div>
                         <strong>Facebook</strong><br>
-                        <small>RakkoTech (2100 👥)</small>
+                        <small>RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://www.youtube.com/@RakkoTech" class="social-link" target="_blank">
                     <span class="social-icon">📺</span>
                     <div>
                         <strong>YouTube</strong><br>
-                        <small>RakkoTech (131 👥)</small>
+                        <small>RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://www.tiktok.com/RakkoTech" class="social-link" target="_blank">
                     <span class="social-icon">🎵</span>
                     <div>
                         <strong>TikTok</strong><br>
-                        <small>@RakkoTech (35 👥)</small>
+                        <small>@RakkoTech</small>
                     </div>
                 </a>
                 <a href="https://kick.com/rakkotech/about" class="social-link" target="_blank">
                     <span class="social-icon">🟩</span>
                     <div>
                         <strong>Kick</strong><br>
-                        <small>RakkoTech (0 👥)</small>
+                        <small>RakkoTech</small>
                     </div>
                 </a>
             </div>

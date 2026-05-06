@@ -160,17 +160,17 @@ VIRAKKO/
 
 ## 🌐 在社交媒体上关注我
 
-- 🐱 [GitHub](https://github.com/RakkoTV) (3 ⭐)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/) (449 个联系人)
-- 📸 [Instagram](https://www.instagram.com/Rakko.Tech) (6666 粉丝)
-- 👾 [Twitch](https://www.twitch.com/RakkoTech) (8800 粉丝)
-- ✖️ [X (Twitter)](https://www.x.com/RakkoTech) (245 粉丝)
-- 🧵 [Threads](https://www.threads.net/@rakko.tech) (125 粉丝)
-- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social) (2 粉丝)
-- 📘 [Facebook](https://www.facebook.com/RakkoTech) (2100 粉丝)
-- 📺 [YouTube](https://www.youtube.com/@RakkoTech) (131 订阅者)
-- 🎵 [TikTok](https://www.tiktok.com/RakkoTech) (35 粉丝)
-- 🟩 [Kick](https://kick.com/rakkotech/about) (0 粉丝)
+- 🐱 [GitHub](https://github.com/RakkoTV)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-silva/)
+- 📸 [Instagram](https://www.instagram.com/Rakko.Tech)
+- 👾 [Twitch](https://www.twitch.com/RakkoTech)
+- ✖️ [X (Twitter)](https://www.x.com/RakkoTech)
+- 🧵 [Threads](https://www.threads.net/@rakko.tech)
+- 🦋 [BlueSky](https://bsky.app/profile/rakkotech.bsky.social)
+- 📘 [Facebook](https://www.facebook.com/RakkoTech)
+- 📺 [YouTube](https://www.youtube.com/@RakkoTech)
+- 🎵 [TikTok](https://www.tiktok.com/RakkoTech)
+- 🟩 [Kick](https://kick.com/rakkotech/about)
 
 ## 📞 联系方式
 
